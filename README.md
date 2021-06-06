@@ -2,7 +2,7 @@
 <img src="media/LidarObstacleDetection.gif" width="700" height="400" />
 
 ## Introduction
-
+###
 This project shows how to process raw point cloud data obtained from a LiDAR sensor to perform obstacle detection. 
 
 In this project, the point cloud processing is done using C++ and Point Cloud Library (PCL). 
